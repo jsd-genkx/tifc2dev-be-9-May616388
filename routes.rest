@@ -1,0 +1,21 @@
+GET http://localhost:3000/books?genre=localhost:3000/books?genre=Fiction
+Content-Type: application/json
+
+###
+GET http://localhost:3000/books/1
+Content-Type: application/json
+
+###
+GET http://localhost:3000/books/3
+Content-Type: application/json
+
+###
+GET http://localhost:3000/books/unknown
+Content-Type: application/json
+
+###
+GET http://localhost:3000/books
+Content-Type: application/json
+
+
+
